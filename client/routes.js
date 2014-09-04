@@ -4,8 +4,8 @@ Router.configure({
 
 Router.map(function() {
   this.route('home', {
-    path: '/',
-    template: 'home'
+    path: '/'
+    // template: 'home'
   });
 });
 
